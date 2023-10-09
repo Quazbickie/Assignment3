@@ -27,4 +27,24 @@
     font-size: 16px;
 }
 
+#news {
+    margin-top: 2vh;
+}
 
+#news li {
+    margin-top: 1vh;
+    border-style: none;
+}
+
+.figure-caption {
+    font-size: 8px;
+}
+
+#staff {
+    margin-top: 2vh;
+}
+
+#staff row {
+    display: flex;
+    justify-content: space-between;
+}
