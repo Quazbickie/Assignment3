@@ -1,3 +1,7 @@
+html * {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 #fixtures {
     margin-top: 5vh;
 }
@@ -42,9 +46,4 @@
 
 #staff {
     margin-top: 2vh;
-}
-
-#staff row {
-    display: flex;
-    justify-content: space-between;
 }
